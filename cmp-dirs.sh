@@ -1,3 +1,3 @@
 #!/bin/bash
 
-diff --brief -Nr "$1" "$2"
+diff --brief -r "$1" "$2"
